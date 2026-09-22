@@ -91,3 +91,53 @@ The dataset was used as the single source for Excel, SQL, Python, and Power BI a
 | Profit per Order | $57.18 |
 
 These KPIs provide a high-level view of overall business performance and serve as the foundation for deeper product, customer, regional, and profitability analysis.
+
+## Analysis Performed
+
+The project follows a structured end-to-end analytical workflow.
+
+### Excel Analysis
+
+- Data validation and cleaning
+- KPI calculation
+- Category and sub-category analysis
+- Regional and segment analysis
+- Profitability analysis
+- Discount analysis
+- Pivot-based business analysis
+
+### SQL Analysis
+
+- Data quality and duplicate checks
+- Overall sales and profit analysis
+- Category, region, segment, and sub-category analysis
+- Monthly and yearly performance analysis
+- Discount vs profitability analysis
+- Top and loss-making product analysis
+- Customer ranking and customer value analysis
+- Year-over-Year (YoY) growth analysis
+- Ranking using RANK() and PARTITION BY
+- Trend analysis using LAG() and CTEs
+
+### Python Analysis
+
+- Data loading and inspection
+- Data quality assessment
+- Exploratory Data Analysis (EDA)
+- Sales and profit analysis
+- Customer and product analysis
+- Time-series analysis
+- Discount and profitability analysis
+- Correlation analysis
+- Data visualization
+
+### Power BI Analysis
+
+- Data modeling
+- Date table and relationships
+- DAX measures
+- KPI dashboard
+- Sales and profit trend analysis
+- Category, region, and sub-category analysis
+- Interactive slicers
+- Business insights and recommendations
