@@ -16,3 +16,19 @@ This project analyzes the Superstore retail dataset to understand:
 The project follows an end-to-end analytics workflow:
 
 Raw Data → Data Cleaning → Exploratory Analysis → SQL Analysis → Business Insights → Power BI Dashboard
+
+## Business Problem
+
+Retail businesses generate large volumes of sales and customer transaction data, but raw data alone does not clearly show where revenue is being generated, where profitability is declining, or which business areas require attention.
+
+This project uses retail transaction data to identify performance patterns and convert them into actionable business insights.
+
+## Objectives
+
+- Analyze overall sales and profitability.
+- Identify high-performing and loss-making products.
+- Compare category, sub-category, segment, and regional performance.
+- Analyze customer and order behavior.
+- Understand the relationship between discounts and profitability.
+- Identify sales and profit trends over time.
+- Develop an interactive Power BI dashboard for decision support.
