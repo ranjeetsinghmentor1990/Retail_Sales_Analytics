@@ -177,3 +177,25 @@ Based on the analysis, the following areas should be considered for management r
 
 6. Strengthen customer analysis  
    Monitor repeat customers, customer value, and order behavior to identify opportunities for retention and growth.
+
+## Project Structure
+
+`text
+Retail_Sales_Analytics/
+│
+├── README.md
+│
+├── Dataset/
+│   └── Superstore.csv
+│
+├── Excel/
+│   └── Retail_Sales_Financial_Analytics.xlsx
+│
+├── SQL/
+│   └── retail_analytics_sql.sql
+│
+├── Python/
+│   └── Retail_Sales_Analysis.ipynb
+│
+└── PowerBI/
+    └── Retail_Sales_Analysis Power BI.pbix
