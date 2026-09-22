@@ -155,3 +155,25 @@ The analysis identified several important business patterns:
 - Product-level analysis helps identify items generating strong revenue but relatively weak or negative profit.
 
 These findings demonstrate that high sales do not necessarily translate into high profitability and that profitability should be evaluated alongside revenue when making business decisions.
+
+## Business Recommendations
+
+Based on the analysis, the following areas should be considered for management review:
+
+1. Review discount strategy  
+   Evaluate high-discount transactions and establish discount levels that protect profitability.
+
+2. Improve Furniture profitability  
+   Investigate pricing, discounting, and product-level performance within Furniture, particularly low-margin sub-categories.
+
+3. Address loss-making products  
+   Review pricing, costs, discounts, and demand for products generating negative profit.
+
+4. Focus on profitable growth  
+   Identify high-margin products, segments, and regions that can support sustainable revenue growth.
+
+5. Monitor revenue and profitability together  
+   Track both sales growth and profit margin rather than using revenue alone as the primary performance indicator.
+
+6. Strengthen customer analysis  
+   Monitor repeat customers, customer value, and order behavior to identify opportunities for retention and growth.
