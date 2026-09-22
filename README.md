@@ -141,3 +141,17 @@ The project follows a structured end-to-end analytical workflow.
 - Category, region, and sub-category analysis
 - Interactive slicers
 - Business insights and recommendations
+
+## Key Business Insights
+
+The analysis identified several important business patterns:
+
+- Technology is the strongest contributor to overall sales and profit.
+- Furniture generates approximately $742K in sales, but its profit margin is only 2.49%, indicating a profitability concern despite strong revenue.
+- Tables are a major loss-making sub-category, generating approximately $17.73K in losses.
+- West Region leads in sales and has a 14.94% profit margin.
+- Home Office has the highest segment-level profit margin at approximately 14.03%.
+- Higher discount levels are associated with lower profitability, highlighting the need for better discount management.
+- Product-level analysis helps identify items generating strong revenue but relatively weak or negative profit.
+
+These findings demonstrate that high sales do not necessarily translate into high profitability and that profitability should be evaluated alongside revenue when making business decisions.
