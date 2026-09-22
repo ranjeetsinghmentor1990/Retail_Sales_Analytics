@@ -180,7 +180,7 @@ Based on the analysis, the following areas should be considered for management r
 
 ## Project Structure
 
-`text
+```text
 Retail_Sales_Analytics/
 │
 ├── README.md
