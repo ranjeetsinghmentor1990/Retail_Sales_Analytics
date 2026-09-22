@@ -74,3 +74,20 @@ The dataset was used as the single source for Excel, SQL, Python, and Power BI a
 - Business Intelligence
 - Business Problem Solving
 - Insight Generation
+
+## Key Performance Indicators (KPIs)
+
+| KPI | Result |
+|---|---:|
+| Total Sales | $2.30M |
+| Total Profit | $286.40K |
+| Profit Margin | 12.47% |
+| Total Orders | 5,009 |
+| Total Customers | 793 |
+| Total Quantity | 37,873 |
+| Average Order Value | $458.61 |
+| Average Discount | 15.62% |
+| Average Units per Order | 7.56 |
+| Profit per Order | $57.18 |
+
+These KPIs provide a high-level view of overall business performance and serve as the foundation for deeper product, customer, regional, and profitability analysis.
