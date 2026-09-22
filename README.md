@@ -52,3 +52,25 @@ The project uses the Superstore retail dataset containing 9,994 transaction reco
 January 2014 – December 2017
 
 The dataset was used as the single source for Excel, SQL, Python, and Power BI analysis to maintain consistency across the complete analytics workflow.
+
+## Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Microsoft Excel | Data cleaning, KPI analysis, pivot tables, and financial analysis |
+| SQL (MySQL) | Data validation, business queries, aggregations, ranking, and trend analysis |
+| Python | Data cleaning, exploratory data analysis (EDA), statistical analysis, and visualization |
+| Power BI | Interactive dashboard, DAX measures, KPI tracking, and business reporting |
+| GitHub | Project version control and portfolio documentation |
+
+### Technical Skills Demonstrated
+
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- KPI & Financial Analysis
+- SQL Querying
+- DAX & Data Modeling
+- Data Visualization
+- Business Intelligence
+- Business Problem Solving
+- Insight Generation
