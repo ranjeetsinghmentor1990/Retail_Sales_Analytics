@@ -33,7 +33,7 @@ This project uses retail transaction data to identify performance patterns and c
 - Identify sales and profit trends over time.
 - Develop an interactive Power BI dashboard for decision support.
 
-  # Dataset Overview
+## Dataset Overview
 
 The project uses the Superstore retail dataset containing 9,994 transaction records and 21 attributes covering orders, customers, products, sales, discounts, and profit.
 
