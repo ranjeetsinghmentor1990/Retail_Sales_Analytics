@@ -203,7 +203,7 @@ Retail_Sales_Analytics/
 
 ## Dashboard Preview
 
-![Retail Sales & Financial Performance Dashboard](PowerBI/dashboard_preview.png)
+![Retail Sales & Financial Performance Dashboard](PowerBI/Dashboard_preview.png)
 
 
 
