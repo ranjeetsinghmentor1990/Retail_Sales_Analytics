@@ -215,6 +215,22 @@ Retail_Sales_Analytics/
 
 The analysis uses the same source dataset across all tools to maintain consistency of results.
 
+## Skills Demonstrated
+
+- Data Cleaning & Data Quality Validation
+- Exploratory Data Analysis (EDA)
+- Advanced Excel & Pivot Table Analysis
+- SQL Querying & Business Analysis
+- Python for Data Analysis
+- Power BI Dashboard Development
+- DAX Measures & Data Modeling
+- KPI Development
+- Data Visualization & Storytelling
+- Trend & Profitability Analysis
+- Customer & Product Analysis
+- Business Insight Generation
+- Data-Driven Decision Support
+
 
 
 
