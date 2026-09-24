@@ -199,3 +199,7 @@ Retail_Sales_Analytics/
 │
 └── PowerBI/
     └── Retail_Sales_Analysis Power BI.pbix
+
+## Dashboard Preview
+
+![Retail Sales & Financial Performance Dashboard](PowerBI/dashboard_preview.png)
