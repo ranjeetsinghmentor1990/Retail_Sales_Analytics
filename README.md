@@ -232,6 +232,17 @@ The analysis uses the same source dataset across all tools to maintain consisten
 - Data-Driven Decision Support
 
 
+## Future Improvements
+
+Potential future enhancements for this project include:
+
+- Automated data refresh and reporting.
+- Advanced customer segmentation using RFM analysis.
+- Predictive sales and profit forecasting.
+- Machine learning-based customer and product analysis.
+- Automated KPI reporting using Power BI Service.
+- Integration with real-time or regularly updated retail data.
+
 
 
 
