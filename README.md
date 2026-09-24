@@ -205,6 +205,18 @@ Retail_Sales_Analytics/
 
 ![Retail Sales & Financial Performance Dashboard](PowerBI/Dashboard_preview.png)
 
+## How to Reproduce
+
+1. Download the Superstore.csv dataset from the Dataset folder.
+2. Open the Excel workbook to review the initial analysis and KPIs.
+3. Import the dataset into MySQL and run the SQL queries from the SQL folder.
+4. Open the Python notebook from the Python folder to review the EDA and visual analysis.
+5. Open the Power BI .pbix file from the PowerBI folder to explore the interactive dashboard.
+
+The analysis uses the same source dataset across all tools to maintain consistency of results.
+
+
+
 
 
 
