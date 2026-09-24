@@ -198,11 +198,14 @@ Retail_Sales_Analytics/
 │   └── Retail_Sales_Analysis.ipynb
 │
 └── PowerBI/
-    └── Retail_Sales_Analysis Power BI.pbix```
-
+    └── Retail_Sales_Analysis Power BI.pbix
+```
 
 ## Dashboard Preview
 
 ![Retail Sales & Financial Performance Dashboard](PowerBI/dashboard_preview.png)
+
+
+
 
 
